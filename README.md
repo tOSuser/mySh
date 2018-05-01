@@ -4,6 +4,7 @@ A set of Linux shell scripts to setup and managing web servers.
 ## ns_setup
 * File name : ns_setup.sh
 * Author (s) : Hossein Ebrahimi @he71.com,
+An automation to install DNS updater (godaddy only), Apache, PHP 5.x, 7.x; ftp server, vpn-server (pptp) and telegram-cli
  
 license AGPL-3.0 
 This code is free software: you can redistribute it and/or modify
