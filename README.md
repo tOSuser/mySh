@@ -36,3 +36,86 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 * version 0.1.1
 * version 0.1	13-10-2016
 
+## ns_vpsman
+* File name : ns_vpsman.sh
+* Author (s) : Hossein Ebrahimi @he71.com,
+ 
+license AGPL-3.0 
+This code is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License, version 3,
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+
+### Last Update : 
+### History :
+---
+
+## ns_cmpman
+* File name : ns_cmpman.sh
+* Author (s) : Hossein Ebrahimi @he71.com,
+ 
+license AGPL-3.0 
+This code is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License, version 3,
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+
+### Last Update : 
+### History :
+---
+
+## ns_logrep
+* File name : ns_logrep.sh
+* Author (s) : Hossein Ebrahimi @he71.com,
+ 
+license AGPL-3.0 
+This code is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License, version 3,
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+
+### Last Update :
+### History :
+---
+
+## tele
+* File name : tele.sh
+* Author (s) : Hossein Ebrahimi @he71.com,
+ 
+license AGPL-3.0 
+This code is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License, version 3,
+along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+
+### Last Update : 
+### History :
+---
